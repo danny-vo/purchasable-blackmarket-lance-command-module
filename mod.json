@@ -1,0 +1,15 @@
+{
+    "Name": "PurchasableBlackmarketLanceCommandModule",
+    "Enabled": true,
+    "Version": "1.0.0",
+    "Description": "Enables the purchase of the Lance Command Module in black markets",
+    "Author": "danny-vo",
+
+    "Manifest": [
+        {
+            "Type": "ItemCollectionDef",
+            "Path": "itemCollections",
+            "ShouldAppendText": true
+        }
+    ]
+}
